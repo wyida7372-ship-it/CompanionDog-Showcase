@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="240" viewBox="0 0 224 240" role="img" aria-labelledby="title desc" lang="zh-CN">
+  <title id="title">实机验证摘要：语音与记忆</title>
+  <desc id="desc">设备完成了七轮从听取问题到播出回答的语音问答。另有体验记录确认叫“小狗”可唤醒、触屏可停止播报，以及经授权记下的个人喜好可在相关对话中被回忆。</desc>
+  <rect x="0.5" y="0.5" width="223" height="239" rx="16" fill="#f7f4ed" stroke="#d7d4c8"/>
+  <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#233e37">
+    <text x="17" y="28" font-size="13" font-weight="600" letter-spacing="1.2" fill="#82543b">实机验证摘要</text>
+    <g stroke="#82543b" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+      <path d="M181 22v3m5-7v11m5-16v21m5-16v11m5-7v3"/>
+    </g>
+    <text x="15" y="91" font-family="'Helvetica Neue',Arial,sans-serif" font-size="60" font-weight="700">7</text>
+    <text x="62" y="67" font-size="19" font-weight="600">轮语音问答</text>
+    <text x="62" y="90" font-size="14" fill="#4c6157">听完问题，播出回答</text>
+    <path d="M17 106.5H207 M17 169.5H207" stroke="#d7d4c8"/>
+    <g fill="none" stroke="#3b6154" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M22 127.5h14a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-8l-5 4v-4h-1a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3Z"/>
+      <path d="M24 134h1m3 0h1m3 0h1"/>
+    </g>
+    <text x="50" y="135" font-size="16" font-weight="600">叫“小狗”就能唤醒</text>
+    <text x="50" y="156" font-size="14" fill="#4c6157">摸一下屏幕，播报就停</text>
+    <g fill="none" stroke="#82543b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M21 190h14a2 2 0 0 1 2 2v16H23a3 3 0 0 1-3-3v-13a2 2 0 0 1 1-2Zm-1 15a3 3 0 0 1 3-3h14"/>
+      <path d="M25 194h7m-7 4h5"/>
+    </g>
+    <text x="50" y="198" font-size="16" font-weight="600">记住说过的喜好</text>
+    <text x="50" y="219" font-size="14" fill="#4c6157">再聊到时能想起来</text>
+  </g>
+</svg>

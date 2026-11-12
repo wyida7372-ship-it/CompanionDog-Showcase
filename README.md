@@ -6,10 +6,10 @@
 
 [看实拍与验收记录](docs/evidence.md) · [了解功能原理与所用模型](docs/technology.md) · [打开交互作品集](https://companiondog-project-portfolio.syrupy-lyric-7681.chatgpt.site/)
 
-| 工作台上的小狗 | 手机上的小狗 | 运动控制样件 |
+| 工作台上的小狗 | 手机上的小狗 | 小狗怎样和你聊天 |
 | :---: | :---: | :---: |
-| [<img src="media/touch-preview.gif" height="240" alt="独立表情屏实拍：手指触碰后，画面发生变化">](media/real-display-demo.mp4) | [<img src="media/app-native.png" height="240" alt="原生 SwiftUI App 实际运行的模拟器首页">](media/app-native.png) | [<img src="media/real-motion-board.jpg" height="240" alt="工作垫上未接线的 ESP32-S3 运动控制板背面">](media/real-motion-board.jpg) |
-| 18 秒表情屏实拍预览，点图看原速视频 | App 实际运行的模拟器截图 | 运动控制板背面实拍 |
+| [<img src="media/touch-preview.gif" height="240" alt="独立表情屏实拍：手指触碰后，画面发生变化">](media/real-display-demo.mp4) | [<img src="media/app-native.png" height="240" alt="原生 SwiftUI App 实际运行的模拟器首页">](media/app-native.png) | [<img src="media/voice-memory.svg" height="240" alt="实机验证摘要：完成 7 轮语音问答，叫「小狗」可唤醒，摸屏可停声，经授权可记住喜好并在相关对话中提起">](docs/evidence.md#voice-dialogue) |
+| 18 秒表情屏实拍预览，点图看原速视频 | App 实际运行的模拟器截图 | 验收记录 · [语音问答](docs/evidence.md#voice-dialogue) · [唤醒与打断](docs/evidence.md#voice-interaction) · [喜好回忆](docs/evidence.md#preference-recall) |
 
 [浏览三段实拍及六张器件照片](docs/evidence.md) · [在网页播放器中观看](https://companiondog-project-portfolio.syrupy-lyric-7681.chatgpt.site/#evidence)。三段视频共 47 秒，是同一次表情屏验收录像的不同节选。
 
