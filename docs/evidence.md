@@ -1,4 +1,4 @@
-[← 返回项目首页](../README.md)
+[← 返回项目首页](../README.md)　·　[原理与所用模型](technology.md)
 
 # 实机展示与验证记录
 
@@ -6,24 +6,29 @@
 
 ## 看实拍：表情屏怎样回应触摸
 
-| 01 · 触摸与回应 | 02 · 表情切换与恢复 | 03 · 睡眠与再次睁眼 |
-| --- | --- | --- |
-| [<img src="../media/real-display-poster.png" width="150" alt="实拍首帧：工作台上的独立表情屏">](../media/real-display-demo.mp4) | [<img src="../media/real-expression-switch-poster.png" width="150" alt="实拍抽帧：带泪滴的屏幕表情">](../media/real-expression-switch.mp4) | [<img src="../media/real-sleep-recovery-poster.png" width="150" alt="实拍抽帧：闭眼及睡眠符号">](../media/real-sleep-recovery.mp4) |
-| [观看 18 秒 · MP4](../media/real-display-demo.mp4) · 原片 00:00–00:18 | [观看 14 秒 · MP4](../media/real-expression-switch.mp4) · 原片 00:18–00:32 | [观看 15 秒 · MP4](../media/real-sleep-recovery.mp4) · 原片 00:44–00:59 |
-
 三段共 47 秒，取自 **2026-08-03 同一次显示板验收关联录像**。每段保持原画面和原速度，移除了音轨与元数据。画面中的触摸网格用于单板测试；完整记录覆盖的 11 类情绪并未在这三段里全部出现。
+
+**01 · 触摸与回应**　18 秒 · 原片 00:00–00:18
+
+https://github.com/user-attachments/assets/446de10b-50c0-4071-9fe8-74f1170a04c5
+
+**02 · 表情切换与恢复**　14 秒 · 原片 00:18–00:32
+
+https://github.com/user-attachments/assets/443b043c-8ffa-49e0-9afe-7ae200901143
+
+**03 · 睡眠与再次睁眼**　15 秒 · 原片 00:44–00:59
+
+https://github.com/user-attachments/assets/2d9cdde1-456a-4969-b410-10d5d1e0ba58
+
+原片文件：[01](../media/real-display-demo.mp4) · [02](../media/real-expression-switch.mp4) · [03](../media/real-sleep-recovery.mp4)（MP4，可下载）
 
 ## 看样件：实际使用或采购了哪些器件
 
-| 触摸显示模块 | 摄像头模组 | DRV8833 电机驱动 |
-| --- | --- | --- |
-| [<img src="../media/real-display-board.jpg" width="155" alt="触摸显示模块背面实拍">](../media/real-display-board.jpg) | [<img src="../media/real-camera.jpg" width="155" alt="工作垫上的摄像头模组实拍">](../media/real-camera.jpg) | [<img src="../media/real-driver.jpg" width="155" alt="未接线的双路电机驱动模块实拍">](../media/real-driver.jpg) |
+![样件实拍：这些器件，已经摆上工作台。六张实拍依次是触摸表情屏（ESP32-S3，2.8 英寸触摸屏）、摄像头模组（MIPI CSI）、DRV8833 双路电机驱动、三只 TowerPro MG90S 舵机（耳尾动作，已购样件）、ESP32-S3 运动控制开发板、USB 摄像头（UVC，远程画面专用）](../media/hardware.webp)
 
-| MG90S 舵机 | 运动控制开发板 | USB 摄像头 |
-| --- | --- | --- |
-| [<img src="../media/real-servos.jpg" width="155" alt="三只微型舵机样件实拍">](../media/real-servos.jpg) | [<img src="../media/real-motion-board.jpg" width="155" alt="运动控制开发板背面实拍">](../media/real-motion-board.jpg) | [<img src="../media/real-usb-camera.jpg" width="155" alt="USB 摄像头外壳和接口实拍">](../media/real-usb-camera.jpg) |
+完整照片：[触摸显示模块](../media/real-display-board.jpg) · [摄像头模组](../media/real-camera.jpg) · [DRV8833 电机驱动](../media/real-driver.jpg) · [MG90S 舵机](../media/real-servos.jpg) · [运动控制开发板](../media/real-motion-board.jpg) · [USB 摄像头](../media/real-usb-camera.jpg)
 
-点图可查看完整照片。样件照片记录器件外观；电机是否转动、摄像头能否采集、舵机是否装进整机，需要各自的运行记录支持。耳尾舵机目前属于已购样件。
+样件照片记录器件外观；电机是否转动、摄像头能否采集、舵机是否装进整机，需要各自的运行记录支持。耳尾舵机目前属于已购样件。
 
 ## 看记录：测试了什么，结论适用到哪里
 
@@ -45,6 +50,11 @@
 
 ## 设计预览与运行图
 
-[11 类表情与待机画面](../media/expressions.png)是角色渲染总览；[小院场景](../media/courtyard.png)是手绘视觉原型；[App 首页](../media/app-native.png)来自模拟器实际运行。整机外观概念图与这些平台素材均不充当整机实物照片。
+- [11 类表情与待机画面](../media/expressions.png)：角色渲染总览。
+- [小院场景](../media/courtyard.png)：手绘视觉原型。
+- [App 首页](../media/app-native.png)：模拟器实际运行截图（E04）；[日间](../media/app-day.png)、[夜间](../media/app-night.png)界面为设计稿。
+- [外观概念图](../media/hero.png)：整机造型方案。
 
-[返回项目首页](../README.md)
+整机外观概念图与这些平台素材均不充当整机实物照片。
+
+[← 返回项目首页](../README.md)
