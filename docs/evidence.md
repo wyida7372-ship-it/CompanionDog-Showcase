@@ -10,15 +10,15 @@
 
 **01 · 触摸与回应**　18 秒 · 原片 00:00–00:18
 
-https://github.com/user-attachments/assets/446de10b-50c0-4071-9fe8-74f1170a04c5
+https://github.com/user-attachments/assets/fb6cbfe9-019d-4b7c-904d-77ad5f4bfe07
 
 **02 · 表情切换与恢复**　14 秒 · 原片 00:18–00:32
 
-https://github.com/user-attachments/assets/443b043c-8ffa-49e0-9afe-7ae200901143
+https://github.com/user-attachments/assets/d8fb0c4c-cf7f-476a-99cc-da3e875fd8c9
 
 **03 · 睡眠与再次睁眼**　15 秒 · 原片 00:44–00:59
 
-https://github.com/user-attachments/assets/2d9cdde1-456a-4969-b410-10d5d1e0ba58
+https://github.com/user-attachments/assets/e1fcb489-d965-4167-bcf3-674bbcec6f18
 
 原片文件：[01](../media/real-display-demo.mp4) · [02](../media/real-expression-switch.mp4) · [03](../media/real-sleep-recovery.mp4)（MP4，可下载）
 
